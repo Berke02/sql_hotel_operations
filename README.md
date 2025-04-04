@@ -1,2 +1,5 @@
 # sql_hotel_operations
-I've passed my SQL Associate Exam from DataCamp successfully and here's how I passed my exam
+This repo is about how I passed my DataCamp "SQL Associate" exam.
+- **notebook.ipynb** → jupyter notebook while in the exam.
+- **hotel_operations.png** → ER diagram given in the exam
+
